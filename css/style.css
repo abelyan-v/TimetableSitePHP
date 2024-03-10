@@ -1,0 +1,44 @@
+.MainBlock {
+    width: 1320px;
+    margin: auto;
+    padding: 5px;
+    background-color: #ebebe0;
+}
+
+.date-container {
+    text-align: center;
+}
+
+.date {
+    display: inline-block;
+    padding: 7px;
+    margin-bottom: 5px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.list {
+    background-color: white;
+    margin: auto;
+    margin-bottom: 5px;
+    width: calc(97% + 10px);
+    border-radius: 10px;
+    padding-left: 15px;
+}
+
+.list p {
+    margin: 1px;
+}
+
+.paginations {
+    text-align: center;
+}
+
+.pagination-date {
+    display: inline-block;
+    line-height: 15px;
+    text-align: center;
+    padding: 5px;
+    background-color: white;
+    border-radius: 20px;
+}
